@@ -1,3 +1,11 @@
+# UI E-commerce Fashion
+Simulación de una UI de un e-commerce de Ropa. Se basa en la reutilización de componentes, maquetación y estilos con Styled Components y paginación para ver las distintas UI con React Router.
+
+### Demo
+https://tutuca-ecommerce.netlify.app/
+
+![Alt text](https://github.com/palaciosla/portfolio-01/blob/main/src/img/ecommerce.png?raw=true "Optional Title")
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
