@@ -5,7 +5,6 @@ import ShoppingCartOutlinedIcon from "@mui/icons-material/ShoppingCartOutlined";
 import { Badge } from "@mui/material";
 
 import { mobile } from "../responsive";
-import { css } from "styled-components";
 
 const Container = styled.div`
   height: 60px;

@@ -12,6 +12,7 @@ import { mobile } from "../responsive";
 
 const Container = styled.div`
   display: flex;
+  background-color: #F5FBFD;
   ${mobile({ flexDirection: "column" })}
 `;
 const Left = styled.div`
@@ -67,7 +68,7 @@ const ListItem = styled.li`
 const Right = styled.div`
   flex: 1;
   padding: 20px;
-  ${mobile({ backgroundColor: "#fff8f8" })}
+  /* ${mobile({ backgroundColor: "#fff8f8" })} */
 `;
 
 const ContactItem = styled.div`
@@ -86,9 +87,7 @@ const Footer = () => {
       <Left>
         <Logo>TUTUCA.</Logo>
         <Description>
-          They are many variations of passages of Lorem Ipsum available, but the
-          majority have suffered alteration in some form, by injected humour, or
-          randomised words which don't look even slightly believable.
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis odit earum dolor corporis similique quaerat temporibus! Harum ut suscipit fuga maiores a nisi iusto placeat officiis autem ea. Distinctio, officiis!
         </Description>
         <SocialContainer>
           <SocialIcon color="3b5999">
